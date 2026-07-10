@@ -16,7 +16,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -49,20 +48,19 @@ Users should be able to:
 ### What I learned
 
 I learned that:
-it is possible to apply two css shadows. 
+- It is possible to apply two css shadows. 
 ```css
 	box-shadow:
 		0.8rem 0.8rem var(--BLACK),
 		1.6rem 1.6rem transparent;
 ```
-@media queries are safer setted in px rather than rem, since it takes the font-size of the browser eventhough a font-size is set at root level. 
-there is a time HTML element with a datetime attribute.
+- @media queries are safer setted in px rather than rem, since it takes the font-size of the browser eventhough a font-size is set at root level. 
+- There is a time HTML element with a datetime attribute.
 ```html
 <time datetime="2023-12-21" class="blog-card__publish-date">Published 21 Dec 2023</time>
 ```
 
 
-**Note: note
 
 ### Continued development
 
@@ -81,12 +79,10 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 - I used AI to get css classes names usign BEM from the preview picture
 
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
 
 ## Author
 
 - Website - [fsanz](https://fsanz.github.io/inicio)
 - Frontend Mentor - [@fsanz](https://www.frontendmentor.io/profile/fsanz)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
